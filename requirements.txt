@@ -5,3 +5,5 @@ pandas==1.0.5
 matplotlib==3.3.0
 tensorflow==1.15.0
 gpflow==1.5.1
+protobuf==3.20.*
+tables==3.7.0
